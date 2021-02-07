@@ -2,6 +2,10 @@ collections:
   authors:
     output: true
 
+gems:
+  - jekyll-paginate
+  - jekyll-assets
+  
 defaults:
   - scope:
       path: ""
